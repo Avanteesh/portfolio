@@ -8,7 +8,7 @@ export default function Profile()  {
             <div className="btn-group">
               <a href="https://www.github.com/Avanteesh" className="btn btn-outline-primary">Github</a>
               <a href="https://www.linkedin.com/in/avanteesh-motheram-99a2022a1/" className="btn btn-outline-primary">LinkedIn</a>
-              <a href="/portfolio/public/resume.pdf" className="btn btn-outline-primary">Download Resume</a>
+              <a href="/portfolio/resume.pdf" className="btn btn-outline-primary">Download Resume</a>
             </div>
           </div>
         </div>
